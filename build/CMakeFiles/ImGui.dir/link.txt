@@ -1,0 +1,2 @@
+D:\Programy\MSYS2\mingw64\bin\ar.exe qc D:\Projekty\WalnutProject\vendor\imgui\bin\Debug-windows-x86_64\ImGui\libImGui.a CMakeFiles/ImGui.dir/vendor/imgui/imgui.cpp.obj CMakeFiles/ImGui.dir/vendor/imgui/imgui_demo.cpp.obj CMakeFiles/ImGui.dir/vendor/imgui/imgui_draw.cpp.obj CMakeFiles/ImGui.dir/vendor/imgui/imgui_tables.cpp.obj CMakeFiles/ImGui.dir/vendor/imgui/imgui_widgets.cpp.obj
+D:\Programy\MSYS2\mingw64\bin\ranlib.exe D:\Projekty\WalnutProject\vendor\imgui\bin\Debug-windows-x86_64\ImGui\libImGui.a

@@ -1,4 +1,5 @@
 -- premake5.lua
+require "cmake"
 workspace "WalnutApp"
    architecture "x64"
    configurations { "Debug", "Release", "Dist" }

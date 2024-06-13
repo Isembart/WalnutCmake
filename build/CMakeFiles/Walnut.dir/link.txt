@@ -1,0 +1,2 @@
+D:\Programy\MSYS2\mingw64\bin\ar.exe qc D:\Projekty\WalnutProject\Walnut\bin\Debug-windows-x86_64\Walnut\libWalnut.a CMakeFiles/Walnut.dir/Walnut/src/Walnut/Application.cpp.obj CMakeFiles/Walnut.dir/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp.obj CMakeFiles/Walnut.dir/Walnut/src/Walnut/Image.cpp.obj CMakeFiles/Walnut.dir/Walnut/src/Walnut/Input/Input.cpp.obj CMakeFiles/Walnut.dir/Walnut/src/Walnut/Random.cpp.obj
+D:\Programy\MSYS2\mingw64\bin\ranlib.exe D:\Projekty\WalnutProject\Walnut\bin\Debug-windows-x86_64\Walnut\libWalnut.a

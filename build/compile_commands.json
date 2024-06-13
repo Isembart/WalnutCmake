@@ -1,0 +1,194 @@
+[
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\context.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\context.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/context.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/context.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\egl_context.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\egl_context.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/egl_context.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/egl_context.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\init.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\init.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/init.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/init.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\input.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\input.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/input.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/input.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\monitor.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\monitor.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/monitor.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/monitor.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\null_init.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\null_init.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/null_init.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/null_init.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\null_joystick.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\null_joystick.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/null_joystick.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/null_joystick.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\null_monitor.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\null_monitor.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/null_monitor.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/null_monitor.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\null_window.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\null_window.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/null_window.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/null_window.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\osmesa_context.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\osmesa_context.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/osmesa_context.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/osmesa_context.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\platform.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\platform.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/platform.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/platform.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\vulkan.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\vulkan.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/vulkan.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/vulkan.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\wgl_context.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\wgl_context.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/wgl_context.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/wgl_context.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_init.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_init.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_init.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_init.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_joystick.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_joystick.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_joystick.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_joystick.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_module.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_module.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_module.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_module.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_monitor.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_monitor.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_monitor.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_monitor.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_thread.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_thread.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_thread.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_thread.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_time.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_time.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_time.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_time.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\win32_window.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\win32_window.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/win32_window.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/win32_window.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\gcc.exe -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32  -fno-diagnostics-color -m64 -g -o CMakeFiles\\GLFW.dir\\vendor\\GLFW\\src\\window.c.obj -c D:\\Projekty\\WalnutProject\\vendor\\GLFW\\src\\window.c",
+  "file": "D:/Projekty/WalnutProject/vendor/GLFW/src/window.c",
+  "output": "CMakeFiles/GLFW.dir/vendor/GLFW/src/window.c.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe   -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\ImGui.dir\\vendor\\imgui\\imgui.cpp.obj -c D:\\Projekty\\WalnutProject\\vendor\\imgui\\imgui.cpp",
+  "file": "D:/Projekty/WalnutProject/vendor/imgui/imgui.cpp",
+  "output": "CMakeFiles/ImGui.dir/vendor/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe   -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\ImGui.dir\\vendor\\imgui\\imgui_demo.cpp.obj -c D:\\Projekty\\WalnutProject\\vendor\\imgui\\imgui_demo.cpp",
+  "file": "D:/Projekty/WalnutProject/vendor/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/ImGui.dir/vendor/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe   -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\ImGui.dir\\vendor\\imgui\\imgui_draw.cpp.obj -c D:\\Projekty\\WalnutProject\\vendor\\imgui\\imgui_draw.cpp",
+  "file": "D:/Projekty/WalnutProject/vendor/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/ImGui.dir/vendor/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe   -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\ImGui.dir\\vendor\\imgui\\imgui_tables.cpp.obj -c D:\\Projekty\\WalnutProject\\vendor\\imgui\\imgui_tables.cpp",
+  "file": "D:/Projekty/WalnutProject/vendor/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/ImGui.dir/vendor/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe   -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\ImGui.dir\\vendor\\imgui\\imgui_widgets.cpp.obj -c D:\\Projekty\\WalnutProject\\vendor\\imgui\\imgui_widgets.cpp",
+  "file": "D:/Projekty/WalnutProject/vendor/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/ImGui.dir/vendor/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\Walnut.dir\\Walnut\\src\\Walnut\\Application.cpp.obj -c D:\\Projekty\\WalnutProject\\Walnut\\src\\Walnut\\Application.cpp",
+  "file": "D:/Projekty/WalnutProject/Walnut/src/Walnut/Application.cpp",
+  "output": "CMakeFiles/Walnut.dir/Walnut/src/Walnut/Application.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\Walnut.dir\\Walnut\\src\\Walnut\\ImGui\\ImGuiBuild.cpp.obj -c D:\\Projekty\\WalnutProject\\Walnut\\src\\Walnut\\ImGui\\ImGuiBuild.cpp",
+  "file": "D:/Projekty/WalnutProject/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp",
+  "output": "CMakeFiles/Walnut.dir/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\Walnut.dir\\Walnut\\src\\Walnut\\Image.cpp.obj -c D:\\Projekty\\WalnutProject\\Walnut\\src\\Walnut\\Image.cpp",
+  "file": "D:/Projekty/WalnutProject/Walnut/src/Walnut/Image.cpp",
+  "output": "CMakeFiles/Walnut.dir/Walnut/src/Walnut/Image.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\Walnut.dir\\Walnut\\src\\Walnut\\Input\\Input.cpp.obj -c D:\\Projekty\\WalnutProject\\Walnut\\src\\Walnut\\Input\\Input.cpp",
+  "file": "D:/Projekty/WalnutProject/Walnut/src/Walnut/Input/Input.cpp",
+  "output": "CMakeFiles/Walnut.dir/Walnut/src/Walnut/Input/Input.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\Walnut.dir\\Walnut\\src\\Walnut\\Random.cpp.obj -c D:\\Projekty\\WalnutProject\\Walnut\\src\\Walnut\\Random.cpp",
+  "file": "D:/Projekty/WalnutProject/Walnut/src/Walnut/Random.cpp",
+  "output": "CMakeFiles/Walnut.dir/Walnut/src/Walnut/Random.cpp.obj"
+},
+{
+  "directory": "D:/Projekty/WalnutProject/build",
+  "command": "D:\\Programy\\MSYS2\\mingw64\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/WalnutApp.dir/includes_CXX.rsp -std=c++17 -fno-diagnostics-color -m64 -g -std=c++17 -o CMakeFiles\\WalnutApp.dir\\WalnutApp\\src\\WalnutApp.cpp.obj -c D:\\Projekty\\WalnutProject\\WalnutApp\\src\\WalnutApp.cpp",
+  "file": "D:/Projekty/WalnutProject/WalnutApp/src/WalnutApp.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/WalnutApp/src/WalnutApp.cpp.obj"
+}
+]

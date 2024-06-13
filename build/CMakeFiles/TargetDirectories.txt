@@ -1,0 +1,6 @@
+D:/Projekty/WalnutProject/build/CMakeFiles/Walnut.dir
+D:/Projekty/WalnutProject/build/CMakeFiles/GLFW.dir
+D:/Projekty/WalnutProject/build/CMakeFiles/ImGui.dir
+D:/Projekty/WalnutProject/build/CMakeFiles/WalnutApp.dir
+D:/Projekty/WalnutProject/build/CMakeFiles/edit_cache.dir
+D:/Projekty/WalnutProject/build/CMakeFiles/rebuild_cache.dir
